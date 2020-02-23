@@ -1,2 +1,5 @@
-# CodeChallenges
-Code chalenges from different sites
+# Code Challenges
+
+Code chalenges from different sites.
+
+## Sites
